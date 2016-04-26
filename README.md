@@ -6,7 +6,7 @@
 ![](/录屏.gif)
 
 ## Author
-Weibo: [@确实草蛋][1]
-http://weibo.com/caoeggs/home
 
-Github: [houyukun]
+Weibo:[@老实人要刨你家祖坟了](http://weibo.com/caoeggs)
+
+Github:[houyukun](https://github.com/houyukun) 
